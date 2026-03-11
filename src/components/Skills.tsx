@@ -6,8 +6,9 @@ const Skills = () => {
     { name: "PostgreSQL & MySQL", category: "Database" },
     { name: "TypeScript & JavaScript", category: "Language" },
     { name: "Git", category: "Tools" },
-    { name: "Docker", category: "DevOps" },
     { name: "Mikrotik", category: "Tools" },
+    { name: "Docker", category: "DevOps" },
+
   ];
 
   return (
