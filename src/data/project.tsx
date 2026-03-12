@@ -4,8 +4,8 @@ import pos3 from '../assets/pos3.jpeg';
 import Hardware1 from '../assets/hardware1.jpeg';
 import Hardware2 from '../assets/hardware2.jpeg';
 import Hardware3 from '../assets/hardware3.jpeg';
-import katalog1 from '../assets/katalog1.jpeg';
-import katalog2 from '../assets/katalog2.jpeg';
+import katalog1 from '../assets/katalog1.png';
+import katalog2 from '../assets/katalog2.png';
 
 export interface Project {
   id: number;
