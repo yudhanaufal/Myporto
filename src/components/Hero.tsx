@@ -12,7 +12,7 @@ const Hero = () => {
           <h1 className="hero-title">
             Hi, I'm <span className="text-gradient">Yudha</span>
             <br />
-              Fullstack Developer <br /> & IT Support
+              Junior Developer <br /> & IT Support
           </h1>
           <p className="hero-subtitle">
              Building reliable applications and keeping systems running smoothly.
