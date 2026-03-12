@@ -16,8 +16,7 @@ const Navbar = () => {
       <nav className={`navbar flex-between ${scrolled ? 'scrolled glass-panel' : ''}`}>
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%', padding: '15px 2rem' }}>
           <h2 className="logo">
-            <span className="text-gradient">Yudha</span>
-            <span>Naufal</span>
+           
           </h2>
           <div className="nav-links">
             <a href="#about" className="nav-link">About</a>
